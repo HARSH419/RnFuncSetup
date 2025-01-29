@@ -1,0 +1,88 @@
+export default {
+  primary: '#009143',
+  buttonColor: '#1b9a3f',
+  primaryBg: 'rgba(226,191,100, 0.369)',
+  bgWhite: '#FAFAFA',
+  bg: '#06174E',
+  bg1: 'transparent',
+  graytext: '#C2C2C2',
+  graytext1: '#808080',
+  grayBg: '#f9f9f9',
+  bgColor: '#f5f5f5',
+  lightWhite: '#EFEFEF',
+  iconColor: '#1E1E1E',
+  textBlack: '#333',
+  borderCol: '#353535',
+  inputPlaceholderColor: '#000',
+  secondary: '#000',
+  inputBox: '#191a1f',
+  black: '#000',
+  lightBlackColor: '#282c34',
+  backgroudColor: '#192841',
+  inputBorderColor: '#202C53',
+  black20: 'rgba(0, 0, 0, 0.2)',
+  black40: 'rgba(0, 0, 0, 0.4)',
+  black50: 'rgba(0, 0, 0, 0.5)',
+  black70: 'rgba(0, 0, 0, 0.7)',
+  black90: 'rgba(0, 0, 0, 0.9)',
+  white: '#fff',
+  lightWhite: '#FFFFFF',
+  cardGrey: '#191a1f',
+
+  // shared
+  redColor: '#d22f27',
+  bgGrey: '#191919',
+  inactiveGrey: '#727272',
+  headerBarBg: '#1b1b1b',
+  castGrey: '#303030',
+  textGrey: '#b3b3b3',
+
+  // home
+  heading: '#e6e6e6',
+  headinga: '#e6e6e6aa',
+  infoGrey: '#a4a4a4',
+
+  // search
+  searchBarBg: '#323232',
+  searchIcon: '#7f7f7f',
+  searchHeadingBg: '#3a3a3a',
+  searchHeadingText: '#b3b3b3',
+
+  // downloads
+  downloadsIconBg: '#404040',
+
+  // more
+  moreAddProfileBg: '#0b0b0b',
+  moreVersionText: '#555',
+  moreUsed: '#4a4a4a',
+  moreBlue: '#357af6',
+  moreFree: '#d8d8d8',
+  moreSectionText: '#979797',
+  moreSectionBorder: '#3e3e3f',
+  moreDeviceText: '#999',
+  moreSaveText: '#595959',
+
+  // cast connect modal
+  castConnectBg: '#181818',
+  castConnectDeviceText: '#58b1e2',
+  // tranparent background
+
+  transParent: 'rgba(52, 52, 52, 0.0)',
+  transParent1: 'transparent',
+  green: '#DAF7A6',
+  darkGreen: '#02b563',
+  Green1: '#5BBD2C',
+  lightBlue: '#dbe8fd',
+  lightGreen: '#EDF6ED',
+  btnBg: '#1b9a3f',
+  darkGreenShad: '#099441',
+  lightGrey: '#F5F6F7',
+  greenColor: '#009143',
+  greenTextColor: '#009143',
+  starColor: '#ffb300',
+  Irish_Green: '#009143',
+  Green_Snake: '#6EB92B',
+  Storm_Dust: '#636363',
+  Dark_black: '#000000',
+  textColor: '#5bbd2c',
+};

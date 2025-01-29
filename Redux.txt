@@ -1,0 +1,1 @@
+yarn add react-redux redux redux-saga axios @reduxjs/toolkit react-native-snackbar
