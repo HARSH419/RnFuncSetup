@@ -1,0 +1,2 @@
+"eslint.quiet": true
+"eslint.quotes": ["error", ["single", "backtick"], { "allowTemplateLiterals": true }]
